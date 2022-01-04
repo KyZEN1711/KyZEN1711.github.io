@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Keshav Singhal
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi!, I am a second year Dual Degree Undergrad in the Electrical Engineering Department at IIT Bombay.
+My interests are:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Anime
+- Coding
 
 What else do you need?
 

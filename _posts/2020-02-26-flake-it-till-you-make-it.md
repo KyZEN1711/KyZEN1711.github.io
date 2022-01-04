@@ -1,9 +1,9 @@
 ---
 layout: post
 title: This Website
-subtitle: _and also myself_
+subtitle: and also myself
 cover-img: /assets/img/Art_380.jpg
-thumbnail-img: /assets/img/My_pic.png
+thumbnail-img: /assets/img/My_pic.jpg
 share-img: /assets/img/path.jpg
 tags: [Personal]
 ---

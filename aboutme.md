@@ -7,7 +7,7 @@ subtitle: Keshav Singhal
 
 ## Hi!  
 I am a Dual Degree Undergrad in the Electrical Engineering Department at IIT Bombay, currently in my fourth semester of study.  
-[MAL](http://myanimelist.net/)
+
 
 
 

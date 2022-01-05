@@ -15,7 +15,7 @@ Visit [my GitHub](https://github.com/KyZEN1711) for more source code.
 <tr>
     <td id="whereami"><center>
       <a><img alt="whereami" width="180" height="90" style="object-fit: contain;" src="assets/img/Art_158.jpg"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>whereami</b></div>
+      <div style="margin-top: 0.5rem"></span><b>whereami</b></div>
       <a class="repo-description"></a>
     </center></td>
     <td id="shrynk"><center>
@@ -36,41 +36,7 @@ Visit [my GitHub](https://github.com/KyZEN1711) for more source code.
       <a class="repo-description"></a>
     </center></td>
 </tr>
-<tr>
-    <td id="textsearch"><center>
-      <a><img alt="textsearch" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/kootenpv/textsearch/master/resources/tslogo.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>textsearch</b></div>
-      <a class="repo-description"></a>
-    </center></td>
-    <td id="nostalgia"><center>
-      <a href="https://github.com/nostalgia-dev/nostalgia"><img alt="nostalgia" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/nostalgia-dev/nostalgia-dev.github.io/master/assets/images/biglogo.png"></a>
-      <div><a class="repo-description" href="https://github.com/nostalgia-dev/nostalgia">Utilize your personal data like Google!</a></div>
-    </center></td>
-</tr>
-<tr>
-    <td id="sky"><center>
-      <a><img alt="sky" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/kootenpv/sky/master/resources/skylogo.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>sky</b></div>
-      <a class="repo-description"></a>
-    </center></td>
-    <td id="sysdm"><center>
-      <a><img alt="sysdm" width="180" height="90" style="object-fit: contain;" src="https://raw.githubusercontent.com/kootenpv/sysdm/master/demo.gif"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>sysdm</b></div>
-      <a class="repo-description"></a>
-    </center></td>
-</tr>
-<tr>
-    <td id="gittyleaks"><center>
-      <a><img alt="gittyleaks" width="180" height="90" style="object-fit: contain;" src="https://github.com/kootenpv/gittyleaks/raw/master/resources/gittyleaks.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>gittyleaks</b></div>
-      <a class="repo-description"></a>
-    </center></td>
-    <td id="brightml"><center>
-      <a><img alt="brightml" width="180" height="90" style="object-fit: contain;" src="https://github.com/kootenpv/brightml/raw/master/resources/logo.png"></a>
-      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>brightml</b></div>
-      <a class="repo-description"></a>
-    </center></td>
-</tr>
+
 </tbody>
 </table>
 

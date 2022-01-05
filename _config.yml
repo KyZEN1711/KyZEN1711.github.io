@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - TestPDF: "TestPDF/week1_all.pdf"
+    - GdrivePDF: "https://drive.google.com/file/d/1aLrU9Q-T0MD2X9i_G1uv8OOU91FJpcB_/view?usp=sharing"
     - MAL: "http://myanimelist.net/"
     - Anime Torrents: "http://mirror.animetosho.org/"
   # Author's home: "https://deanattali.com"

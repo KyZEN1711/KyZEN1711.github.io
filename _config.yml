@@ -29,7 +29,7 @@ navbar-links:
 avatar: "https://lh3.googleusercontent.com/pw/AM-JKLVaCpZlN06VRaDdE3yWjI3ByLV4Cv91UR-z30jBe61qMXIg7yhMePuto1bEHB1ycrolc0W1mPp2RH5VQQXjDLyQHfO0xCoI7ilMdU9aLJOmmtHnRGECkZI6Joq9ZhBDaAIX36_kZoUr3jHqbCBAqFvM=s1280-no?authuser=0"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter

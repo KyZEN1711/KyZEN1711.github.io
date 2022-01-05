@@ -15,7 +15,7 @@ Visit [my GitHub](https://github.com/KyZEN1711) for more source code.
 <tr>
     <td id="whereami"><center>
       <a><img alt="whereami" width="180" height="90" style="object-fit: contain;" src="assets/img/Art_158.jpg"></a>
-      <div style="margin-top: 0.5rem"></span><b>whereami</b></div>
+      <div style="margin-top: 0.5rem"><b>whereami</b></div>
       <a class="repo-description"></a>
     </center></td>
     <td id="shrynk"><center>

@@ -18,7 +18,8 @@ navbar-links:
   Projects: "Projects"
   Resources:
     #- TestPDF: "TestPDF/week1_all.pdf"
-    - EE309: "2022-1-05-EE309"
+    - EE-309: "2022-1-05-EE309"
+    - HS-431: "HS431"
   
   # Author's home: "https://deanattali.com"
 
